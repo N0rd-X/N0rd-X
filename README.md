@@ -30,20 +30,6 @@ I build across every layer; hardware, software, and interface because the same f
 
 ## Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0rd-X&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0A0E27&langs_count=6" alt="Top Languages">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/N0rd-X/N0rd-X/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <sub>Building in focus. Shipping without noise.</sub>
-</div>
+![](https://github-readme-stats.shion.dev/api?username=N0rd-X&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=N0rd-X&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=N0rd-X&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
