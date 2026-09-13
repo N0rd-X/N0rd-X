@@ -22,7 +22,7 @@ I'm always thinking about more control over the software I use, how they behave,
 
 ## Contact
 
-If you're building something worth discussing, or you just have noted:
+If you're building something worth discussing, or you just have note:
 
 - **Telegram:** [@N0rd_X](https://t.me/N0rd_X)
 - **Email:** nord_x@tuta.io
