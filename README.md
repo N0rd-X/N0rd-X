@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/N0rd-X/N0rd-X/main/banner.svg" width="100%" alt="Nord-X">
+  <img src="https://raw.githubusercontent.com/N0rd-X/N0rd-X/main/banner.svg" width="100%" alt="N0rd-X">
 </div>
 
 <br>
 
 ## Overview
 
-I build across every layer; hardware, software, and interface because the same failure repeats everywhere: systems that don't work as they're meant to, don't look like they could at their best, and quietly erode the user's control over their own experience. The goal is simple: restore predictable, user-directed behavior across the stack.
-
+I'm always thinking about more control over the software I use, how they behave, what they allow and what they doesn't. When something I care about stalls or drifts, you'll most probably find me building my own version, or a least studying it deeply.
 
 <br>
 
@@ -17,14 +16,16 @@ I build across every layer; hardware, software, and interface because the same f
 - **Operator over UI:** Interfaces should enable action, not obstruct it.
 - **Structural Privacy:** Privacy must be enforced by architecture, not policy.
 - **Direct Control:** Users must retain explicit control over system behavior.
-- **Precision over adequacy:** “Good enough” is where systems fail.
-
+- **Precision over adequacy:** "Good enough" is where systems fail.
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/N0rd-X/N0rd-X/main/layer-map.svg" alt="Layers">
-</div>
+## Contact
+
+If you're building something worth discussing, or you just have noted:
+
+- **Telegram:** [@N0rd_X](https://t.me/N0rd_X)
+- **Email:** nord_x@tuta.io
 
 <br>
 
